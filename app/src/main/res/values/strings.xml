@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity4Gutib</string>
+    <string name="Theme">Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="notification">Notification</string>
+    <string name="allow_push_notification">Allow Push Notification</string>
+    <string name="profile_details">Profile Details</string>
+    <string name="emailaddress">Email Address</string>
+    <string name="nickname">Nickname</string>
+    <string name="save">Save</string>
+</resources>
